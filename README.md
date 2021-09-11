@@ -12,6 +12,6 @@ TextBlob Library to get sentiments of a tweet\
 [Guide to Install](https://textblob.readthedocs.io/en/dev/)
 \
 \
-\
-\
 [TheDevOpsBot on Twitter](https://twitter.com/thedevopsbot)
+![Logo](https://user-images.githubusercontent.com/12321894/132949746-214c40b6-d3a3-4cfe-9760-1b372bab7e69.png)
+
