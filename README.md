@@ -1,4 +1,5 @@
 # TheDevOpsBot
+![Logo](https://user-images.githubusercontent.com/12321894/132949746-214c40b6-d3a3-4cfe-9760-1b372bab7e69.png =250px)
 A twitter bot written in Python
 
 It uses below mentioned development kit\
@@ -13,5 +14,4 @@ TextBlob Library to get sentiments of a tweet\
 \
 \
 [TheDevOpsBot on Twitter](https://twitter.com/thedevopsbot)
-![Logo](https://user-images.githubusercontent.com/12321894/132949746-214c40b6-d3a3-4cfe-9760-1b372bab7e69.png)
 
